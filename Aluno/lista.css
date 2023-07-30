@@ -1,0 +1,60 @@
+body{
+    background-color: #F6F9F9;
+    margin: 0px;
+}
+
+.topo{
+    display: flex;
+    justify-content: space-between;
+    height: 90px;
+    background: linear-gradient(to right, #2a5298, #1e3c72);
+    padding: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    margin: 0px;
+    margin-bottom: 30px;
+    color: #F6F9F9;
+}
+
+table  {
+   
+    padding: 10px;
+    margin-left: 450px;
+    border: 2px solid black;
+    
+   
+}
+
+h1 {
+    background-color: #2a5298;
+    width: 50px;
+  
+
+}
+#btn{
+    background: #007bff;
+    background-color: #0059b9;
+    color: white;
+    width: 45pxpx;
+    height: 20px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border: 0;
+    margin: 30px;
+
+}
+.rodape{
+    margin-top: 20px;
+    color: #fff;
+    background: linear-gradient(to right, #2a5298, #1e3c72);
+    width: 100%;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+
+}
