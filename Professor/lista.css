@@ -1,0 +1,60 @@
+body{
+    background-color: #F6F9F9;
+    margin: 0px;
+}
+
+.topo{
+    display: flex;
+    justify-content: space-between;
+    height: 90px;
+    background-color: rgb(92, 186, 112);
+    padding: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    margin: 0px;
+    margin-bottom: 30px;
+    color: #F6F9F9;
+}
+
+table  {
+   
+    padding: 10px;
+    margin-left: 450px;
+    border: 2px solid black;
+    
+   
+}
+
+h1 {
+    background-color:rgb(92, 186, 112);
+    width: 50px;
+  
+
+}
+#btn{
+    
+    background-color:rgb(92, 186, 112);
+    color: white;
+    width: 45pxpx;
+    height: 20px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border: 0;
+    margin: 30px;
+
+}
+.rodape{
+    margin-top: 20px;
+    color: #fff;
+    background-color: rgb(92, 186, 112);
+    width: 100%;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+
+}

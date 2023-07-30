@@ -1,0 +1,20 @@
+
+body{
+    background-color: #F6F9F9;
+    margin: 0px;
+}
+
+
+#btn{
+    
+    background-color:rgb(92, 186, 112);
+    color: white;
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+    border: 0;
+    margin: 50px;
+    margin-left: 50px;
+    padding: 30px;
+
+  }
